@@ -388,7 +388,7 @@ The graph above shows the weekly transfer volume of assets broken down by cross 
 create_premade_layout('pie-layout-1', final_data_list2)
 """
 ### Description  
-The graph above shows the weekly transfer volume of each bridge broken down by the chain where the bridge strated. 
+The graph above shows the transfer volume of each bridge broken down by the chain where the bridge strated. 
 
 """
 
